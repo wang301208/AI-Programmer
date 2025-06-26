@@ -9,6 +9,11 @@ Software Programs Using Genetic Algorithms").
 
 AI-Programmer is an experiment with using artificial intelligence and genetic algorithms to automatically generate programs. Successfully created [programs](https://github.com/primaryobjects/AI-Programmer/tree/master/Results) by the AI include: hello world, hello <name>, addition, subtraction, reversing a string, fibonnaci sequence, 99 bottles of beer on the wall, and more. It's getting smarter. In short, it's an AI genetic algorithm implementation with self modifying code.
 
+## Requirements
+
+This project requires the .NET Framework 4.8 Developer Pack to build and run.
+
+
 ## Motivation
 
 Is it possible for a computer to write its own programs? Need a word processor? Let the computer create one for you. Need a screen capture tool? Let the computer create one for you. Take it a step further, and let the computer create programs that simplify your life, that you didn't even know you needed!
